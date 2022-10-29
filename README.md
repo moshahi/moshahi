@@ -14,7 +14,9 @@
 </div>
 
 ### :man_technologist: About Me :<br>
-I am a Back-end Developer from Iran.<br>
+I am Mohammad Shahi.I'm from Iran. I am very eager to learn. I have been programming for about a year.
+I am very flexible and responsible and I like to work with good teams.
+<br>
 - :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/mohammad-shahi-5415a7190"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 
 ### :hammer_and_wrench: Languages :<br>
