@@ -40,9 +40,14 @@ I am a Back-end Developer from Iran.<br>
  
 ### :hammer_and_wrench: ORM & ODM :<br>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" title="Git" **alt="Git" width="90" height="90"/>&nbsp;
-  <img src="https://worldvectorlogo.com/download/prisma-2.svg" title="Git" **alt="Git" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Git" **alt="Git" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" title="Git" **alt="Git" width="100" height="100"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" title="Git" **alt="Git" width="100" height="100"/>&nbsp;
+  <img src="https://cdn.filestackcontent.com/tnsRC5TS0OMIlyfjDaNN" title="Git" **alt="Git" width="100" height="100"/>&nbsp;
 </div>
-
+ 
+### :hammer_and_wrench: Utils:<br>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
+  <img src="https://s3-us-west-2.amazonaws.com/assertible/integrations/swagger-logo-horizontal.jpeg" title="Git" **alt="Git" width="140" height="60"/>&nbsp;
+</div>
 
