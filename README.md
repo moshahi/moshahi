@@ -52,5 +52,6 @@ I am very flexible and responsible and I like to work with good teams.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
   <img src="https://s3-us-west-2.amazonaws.com/assertible/integrations/swagger-logo-horizontal.jpeg" title="Git" **alt="Git" width="140" height="60"/>&nbsp;
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" title="Git" **alt="Git" width="140" height="60"/>&nbsp;
 </div>
 
