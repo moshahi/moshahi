@@ -14,8 +14,10 @@
 </div>
 
 ### :man_technologist: About Me :<br>
-I am Mohammad Shahi.I'm from Iran. I am very eager to learn. I have been programming for about a year.
-I am very flexible and responsible and I like to work with good teams.
+Hello, I am Mohammad Shahi.
+I am very challenging and flexible and very eager to learn.
+My moral positive point is that I have no fear of learning and new experiences and you can count on me for new
+things
 <br>
 - :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/mohammad-shahi-5415a7190"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 
